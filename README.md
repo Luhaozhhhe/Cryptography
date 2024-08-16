@@ -1,2 +1,1 @@
-# Cryptography
-NKU-CSSE0016-密码学
+# NKU-CSSE0016-密码学
